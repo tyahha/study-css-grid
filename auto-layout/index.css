@@ -1,0 +1,24 @@
+#container {
+  display: grid;
+  grid-template-rows: 200px 100px;
+  grid-template-columns: 200px 100px 100px;
+  grid-auto-flow: row;
+}
+#A {
+  background-color: #aaaaaa;
+}
+#B {
+  background-color: #8888ff;
+}
+#C {
+  background-color: #88ff88;
+}
+#D {
+  background-color: #aaaaff;
+}
+#E {
+  background-color: #aaffaa;
+}
+#F {
+  background-color: #ff8888;
+}
